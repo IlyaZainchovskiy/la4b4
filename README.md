@@ -4,7 +4,7 @@
 <img width="2560" height="1340" alt="зображення" src="https://github.com/user-attachments/assets/ca56d76d-0010-41a8-9356-1b73e1750637" />
 
 # Завданян 2 
-<img width="875" height="567" alt="зображення" src="https://github.com/user-attachments/assets/7110f37c-a9e6-471e-b3d9-f0c90a2c49cf" />
+<img width="2560" height="1382" alt="зображення" src="https://github.com/user-attachments/assets/6a3abe22-bf6e-4d01-b02d-ec143e51c183" />
 
 
 # Завдання 3 
