@@ -1,4 +1,4 @@
 # Практичне заняття 4. Списки
 
 # Завдання 1 
-<img width="810" height="492" alt="зображення" src="https://github.com/user-attachments/assets/56bbfef5-1dde-4161-bf73-05744d298ac5" />
+<img width="2560" height="1340" alt="зображення" src="https://github.com/user-attachments/assets/ca56d76d-0010-41a8-9356-1b73e1750637" />
